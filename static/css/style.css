@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Barlow", sans-serif;
+}
+.top-menu {
+  color: white;
+  background-color: rgb(23, 105, 212);
+
+  width: 100%;
+}
+.menu-items {
+  font-size: 20px;
+  list-style-type: none;
+  padding: 0px 140px;
+}
+.menu-items > li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.blog-part {
+  margin-top: 30px;
+}
